@@ -1,0 +1,21 @@
+:root {
+  --cor12: #000;
+  --cor11: #111;
+  --cor10: #2e2e2e;
+  --cor9: #404040;
+  --cor8: #595959;
+  --cor7: #717171;
+  --cor6: #9c9c9c;
+  --cor5: #b2b2b2;
+  --cor4: #ccc;
+  --cor3: #dedede;
+  --cor2: #ededed;
+  --cor1: #f7f7f7;
+  --cor0: #ffffff;
+
+  --cor-p5: #332200;
+  --cor-p4: #664400;
+  --cor-p3: #a66f00;
+  --cor-p2: #e4a30b;
+  --cor-p1: #ffbb00;
+}
