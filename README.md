@@ -15,4 +15,4 @@ Repositório criado para hospedar o **projeto final** do curso [HTML e CSS para 
 
 ## Como visualizar
 
-Abra `index.html` no navegador ou use um servidor local (recomendado para caminhos de imagens e links entre páginas).
+Acesse o link disponibilizado pelo GitHub logo abaixo da descrição.
